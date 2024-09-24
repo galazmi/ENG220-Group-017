@@ -1,4 +1,4 @@
-# Air Quality Streamlit App
+# Data Dashboar Streamlit App
 
 This project is a Streamlit application to implement a data dashboard for the state of New Mexico to visualize Water, Air Quality, Health and Finance data. 
 
@@ -13,8 +13,8 @@ This project is a Streamlit application to implement a data dashboard for the st
 ### Install Python, Python Env and streamlit 
 
 - Install the required Python packages and a virtual environment. We will be using python 3.8 for this project.
-- Download and Installation instructions for different operating systems on [python.org](python.org).
-- Download and Installation instructions for conda are different operating systems are available on [anaconda.org](anaconda.org).
+- Download and Installation instructions for different operating systems on [https://python.org](https://python.org).
+- Download and Installation instructions for conda are different operating systems are available on [https://anaconda.org](https://anaconda.org).
 - Install streamlit libraries in the python environment and ensure all the libraries and working and are installed. Instruction are available on [[https://docs.streamlit.io/](https://docs.streamlit.io/)).
 - All of these instructions are compiled in this page [https://docs.streamlit.io/get-started/installation/anaconda-distribution](https://docs.streamlit.io/get-started/installation/anaconda-distribution)
 
@@ -37,7 +37,7 @@ cd data_dashboard
 
 ### Working on your streamlit page
 
-- You can refer to the template we have in the analysis directory or work on you own streamlit app to show your visualizations. There are many examples of such visualizations and data representation on [streamlit.io/gallery](streamlit.io/gallery) and [https://github.com/streamlit](https://github.com/streamlit)
+- You can refer to the template we have in the analysis directory or work on you own streamlit app to show your visualizations. There are many examples of such visualizations and data representation on [https://streamlit.io/gallery](https://streamlit.io/gallery) and [https://github.com/streamlit](https://github.com/streamlit)
 - Once you are satified or want to test your page to see how it renders, you can use the following command from the directory of your page (replace with the name of 'your_page').
 
 ```
