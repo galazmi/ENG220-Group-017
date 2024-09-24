@@ -1,4 +1,4 @@
-# Data Dashboar Streamlit App
+# Data Dashboard Streamlit App
 
 This project is a Streamlit application to implement a data dashboard for the state of New Mexico to visualize Water, Air Quality, Health and Finance data. 
 
